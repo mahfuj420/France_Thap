@@ -49,10 +49,6 @@ print """
 
 jalan('\033[1;40m---> \033[1;32mWelcome To France Er Hoga Marar Tools')
 jalan('\033[1;40m---> \033[1;32mFrance Thapanor Jonno Banano')
-jalan('\033[1;40m---> \033[1;32mAger I'd Zuckerer Meye Niya Geche')
-jalan('\033[1;40m---> \033[1;32mKing Is Always King')
-jalan('\033[1;40m---> \033[1;32mFrance Vagbe')
-
 jalan('\033[1;94m---> \033[1;32m N.A.M Mahfuj \033[1;31m[ N.A.M ]')
 print "\033[1;96m----->\033[1;32mTOOL LOGIN \033[1;96m<-----"
 
