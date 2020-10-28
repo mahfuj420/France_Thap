@@ -90,11 +90,7 @@ def login():
 	jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
 	print "\033[1;91m>>>\033[1;91m[1]\033[1;93m Ddos Attack France  "
         time.sleep(0.05)
-  print "\033[1;91m>>>\033[1;91m[2]\033[1;93m Request My Fb I'd "
-	time.sleep(0.05)
-	print "\033[1;91m>>>\033[1;91m[3]\033[1;94m Like My Official Page" 
-	time.sleep(0.05)
-	print "\033[1;91m>>>\033[1;91m[0]\033[1;96m Logout        "
+        print "\033[1;91m>>>\033[1;91m[0]\033[1;96m Logout        "
 	jalan("\033[1;96m⊱⋕⊰══════════════════════════════════════⊱⋕⊰") 
 	pilih_login()
 
